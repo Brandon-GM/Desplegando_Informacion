@@ -1,0 +1,41 @@
+/* Mis Estilos estilos CSS :D */
+html, body {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #ededed; /* Fondo gris para la pagina*/
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color:#ffffff;
+}
+
+h2, h3{
+    font-weight: bold;
+    color: #bd0202;
+}
+
+h5{
+    font-weight: bold;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+header {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
